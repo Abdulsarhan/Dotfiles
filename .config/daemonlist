@@ -1,0 +1,5 @@
+systemctl enable --user emacs | Location: ~/.config/systemd/user/emacs.service  
+network manager
+iwctl
+wpa_supplicant
+cups

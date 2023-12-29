@@ -1,0 +1,17 @@
+[MainWindow]
+1920x1080 screen: Height=1022
+1920x1080 screen: Width=1033
+1920x1080 screen: XPosition=13
+1920x1080 screen: YPosition=45
+State=AAAA/wAAAAD9AAAAAAAABAkAAAPsAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+eDP1=eDP1
+
+[settings]
+animDelay=2
+collection=10
+level10=0
+level11=0
+level12=0
+level13=0
+level14=0

@@ -1,0 +1,16 @@
+# NetSurf cookies file.
+#
+# Lines starting with a '#' are comments, blank lines are ignored.
+#
+# All lines prior to "Version:	102" are discarded.
+#
+# Version	Domain	Domain from Set-Cookie	Path	Path from Set-Cookie	Secure	HTTP-Only	Expires	Last used	No destroy	Name	Value	Value was quoted	Scheme	URL	Comment
+Version:	102
+0	.wikipedia.org	1	/	1	1	1	1706184000	1703440963	0	WMF-Last-Access-Global	24-Dec-2023	0	unused	unused	
+0	en.wikipedia.org	0	/	1	1	1	1706184000	1703440963	0	WMF-Last-Access	24-Dec-2023	0	https	https://en.wikipedia.org/wiki/Main_Page	
+0	en.wikipedia.org	0	/	1	1	1	1703462400	1703440963	0	WMF-DP	369	0	https	https://en.wikipedia.org/wiki/Main_Page	
+0	a1.api.bbc.co.uk	0	/	1	1	1	1737741771	1703440971	0	atidx	02F6025B-E40F-42A7-8B2B-BD74CA2D9A91	0	https	https://a1.api.bbc.co.uk/hit.xiti?&col=1&from=p&ptag=js&s=598253&p=news.page&x1=[urn:bbc:cps:b5c53243-a695-e059-e040-850a02846523]&x2=[responsive]&x3=[bbc_website]&x4=[en]&x7=[index-home]&x8=[reverb-3.9.0-nojs]&x11=[news_gnl]&x12=[news]	
+0	a1.api.bbc.co.uk	0	/	1	1	1	1737741771	1703440971	0	atid	02F6025B-E40F-42A7-8B2B-BD74CA2D9A91	0	https	https://a1.api.bbc.co.uk/hit.xiti?&col=1&from=p&ptag=js&s=598253&p=news.page&x1=[urn:bbc:cps:b5c53243-a695-e059-e040-850a02846523]&x2=[responsive]&x3=[bbc_website]&x4=[en]&x7=[index-home]&x8=[reverb-3.9.0-nojs]&x11=[news_gnl]&x12=[news]	
+0	.reuters.com	1	/	1	1	0	1734989942	0	0	datadome	XhQQvUlMBcvEaN3QxDccSlGeBPyayB4_bZPM1hnEb_lqZYFEEO3vJY5rcIWgpwDsjn_GxD0k005gH0~KeJ9Obfi_uXc4b1eDuIqloQiOx6~0IKicgtrt6WFWXvHv41rP	0	unused	unused	
+0	.youtube.com	1	/	1	1	1	1718992945	1703440945	0	VISITOR_INFO1_LIVE	SABWa5qmlpk	0	unused	unused	
+0	.youtube.com	1	/	1	1	1	1718992945	1703440945	0	VISITOR_PRIVACY_METADATA	CgJDQRIEGgAgIw%3D%3D	0	unused	unused	

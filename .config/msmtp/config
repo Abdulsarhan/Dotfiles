@@ -1,0 +1,11 @@
+account abdulrahmanayman1@gmail.com
+host smtp.gmail.com
+port 465
+from abdulrahmanayman1@gmail.com
+user abdulrahmanayman1@gmail.com
+passwordeval "pass abdulrahmanayman1@gmail.com"
+auth on
+tls on
+tls_trust_file	/etc/ssl/certs/ca-certificates.crt
+logfile /home/abdul/.local/state/msmtp/msmtp.log
+tls_starttls off
