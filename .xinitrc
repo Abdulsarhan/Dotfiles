@@ -33,16 +33,10 @@ setxkbmap -option "caps:escape_shifted_capslock" &
 #~/.fehbg 
 wal -i ~/.config/wallpaper/hallerbos.jpg &
 /usr/bin/pipewire & 
-/usr/bin/pipewire-puls &
-/usr/bin/pipewire-mediasession &
+/usr/bin/pipewire-pulse &
+/usr/bin/wireplumber &
 exec /usr/local/bin/dwm &
 exec slstatus 
-
-# replace capslock with esc
-
-~!/bin/sh
-
-# rxvt-uncode
 
 [[ ~/.Xresources ]] && xrdb -merge ~/.Xresources
 
